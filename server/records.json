@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "fatima junaid",
+      "salary": "7000",
+      "married": "yes",
+      "id": 8
+    },
+    {
+      "name": "naz",
+      "salary": "20000",
+      "married": "no",
+      "id": 9
+    },
+    {
+      "name": "nazia majeed",
+      "salary": "67777",
+      "married": "no",
+      "id": 10
+    }
+  ]
+}

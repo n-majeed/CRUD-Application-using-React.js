@@ -1,0 +1,25 @@
+[      {
+       "id":0,
+        "name":       "sonoo",   
+        "salary":      56000,   
+        "married":    "yes"  
+     },
+    {  
+        "id":1,
+        "name":       "monoo",   
+        "salary":      86000,   
+        "married":    "yes"  
+    } ,
+    {  
+        "id":2,
+        "name":       "meeena",   
+        "salary":      66000,   
+        "married":    "no"  
+    } ,
+    {  
+        "id":3,
+        "name":       "veena",   
+        "salary":      54000,   
+        "married":    "yes"  
+    }  
+]

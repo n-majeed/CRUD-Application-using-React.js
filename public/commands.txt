@@ -1,0 +1,8 @@
+for creating server
+-create folder server 
+-cd server
+-npm init -y           This will create node project for me
+-npm install json-server     This will create json server
+-create json file in server folder and store json data in it
+-go to package.json write  "start": "json-server --watch records.json --port 4000"
+-in terminal write npm start
